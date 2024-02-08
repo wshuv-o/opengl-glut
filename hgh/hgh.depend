@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1701696511 source:e:\desktop\onedrive\documents\docs files\hgh\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
